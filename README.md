@@ -3,12 +3,12 @@
 ## 1. Make sure you have nodejs installed on your PC.
 
 ## 2. Starting dashboard, write in terminal
-    a. npm install
+    </br> a. npm install
    </br> b. cd react-admin
    </br> c. npm start
 
 ## 3. Starting backend, write in a new parallel terminal
-   a. pip install requirements.txt
+   </br> a. pip install requirements.txt
    </br> b. cd backend
    </br> c. python app.py
 
