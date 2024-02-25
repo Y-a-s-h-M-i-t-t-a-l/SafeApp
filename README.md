@@ -3,7 +3,7 @@
 ## 1. Make sure you have nodejs installed on your PC.
 
 ## 2. Starting dashboard, write in terminal
-    </br> a. npm install
+   </br> a. npm install
    </br> b. cd react-admin
    </br> c. npm start
 
